@@ -18,6 +18,7 @@ Employee Data Page:
 ![](https://github.com/Chafithafid30/Employee-Payroll-Application/blob/master/Gaji%20Pegawai%205.JPG)
 
 Change Password Page:
+
 ![](https://github.com/Chafithafid30/Employee-Payroll-Application/blob/master/Gaji%20Pegawai%206.JPG)
 
 ## Architecture 🗼

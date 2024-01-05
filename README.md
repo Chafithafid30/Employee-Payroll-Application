@@ -15,6 +15,7 @@ User Page:
 ![](https://github.com/Chafithafid30/Employee-Payroll-Application/blob/master/Gaji%20Pegawai%204.JPG)
 
 Employee Data Page:
+
 ![](https://github.com/Chafithafid30/Employee-Payroll-Application/blob/master/Gaji%20Pegawai%205.JPG)
 
 Change Password Page:

@@ -3,15 +3,19 @@ Employee Payroll Desktop Application Using Java, Java GUI, RDBMS MySQL
 
 ## Screenshots 🖥️ 
 Login: 
+
 ![](https://github.com/Chafithafid30/Employee-Payroll-Application/blob/master/Gaji%20Pegawai%201.JPG)
 
 Home: 
+
 ![](https://github.com/Chafithafid30/Employee-Payroll-Application/blob/master/Gaji%20Pegawai%202.JPG)
 
 Employee Position Data Page:
+
 ![](https://github.com/Chafithafid30/Employee-Payroll-Application/blob/master/Gaji%20Pegawai%203.JPG)
 
 User Page:
+
 ![](https://github.com/Chafithafid30/Employee-Payroll-Application/blob/master/Gaji%20Pegawai%204.JPG)
 
 Employee Data Page:
